@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "RansackFinder: Find In Current Folder",
+        "command": "rs_find_in_current_folder"
+    }
+]
