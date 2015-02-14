@@ -1,3 +1,4 @@
 {
-    "agent_ransack_path" : "invalid",
+    // Example: "C:\\Program Files\\Mythicsoft\\Agent Ransack\\AgentRansack.exe"
+    "agent_ransack_path" : "Put your Agent Ransack path here!"
 }
